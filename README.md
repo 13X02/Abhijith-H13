@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1FOUCAt8qxYg-RMuboqehA8QuTQSytYAb/preview" alt="Card header"/>
+  <img src="https://github.com/Abhijith-H13/Abhijith-H13/blob/main/Blue%20Modern%20Architect%20LinkedIn%20Banner%20(1)%20(1).png?raw=true" alt="Card header"/>
 </div>
 
 
