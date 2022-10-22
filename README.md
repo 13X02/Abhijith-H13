@@ -18,7 +18,7 @@
 
   - 📚 Computer Science Engineering student at APJAKTU.
 
-  - 🌱  I develop apps for ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white).
+  - 🌱  I develop apps for iOS.
 
   - 💬 Ask me about **any technology**.
 
@@ -88,8 +88,8 @@
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-h-b1049b211/)](https://www.linkedin.com/in/abhijith-h-b1049b211/)&nbsp;
-  	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijithh496@gmail.com)&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-h-b1049b211/)](https://www.linkedin.com/in/abhijith-h-b1049b211/)&nbsp;
+  	[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijithh496@gmail.com)&nbsp;
 
 </div>
 
