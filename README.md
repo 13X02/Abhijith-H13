@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Abhijith-H13/Abhijith-H13/blob/main/Blue%20Modern%20Architect%20LinkedIn%20Banner%20(1)%20(1).png?raw=true" alt="Card header"/>
+  <img src="https://github.com/Abhijith-H13/Abhijith-H13/blob/main/Blue%20Modern%20Architect%20LinkedIn%20Banner%20(2).png?raw=true" alt="Card header"/>
 </div>
 
 
@@ -19,7 +19,7 @@
   - 📚 Computer Science Engineering student at APJAKTU.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  I’m always studying **JavaScript**, **Swift**, **ReactJS**, **NodeJS**, **Flutter** and **Python**.
+  - 🌱  I’m always studying **JavaScript**, **Swift**.
 
   - 💬 Ask me about **any technology**.
 
