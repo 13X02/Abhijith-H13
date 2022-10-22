@@ -17,13 +17,12 @@
   ## 🧭 &nbsp;About Me
 
   - 📚 Computer Science Engineering student at APJAKTU.
-  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  I’m always studying **JavaScript**, **Swift**.
+  - 🌱  I develop apps for ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white).
 
   - 💬 Ask me about **any technology**.
 
-  - ⚡ Fun fact: Santa is not real :)
+  - ⚡ A fact : **ONEPIECE IS REAL**
 
   <br>
   
@@ -89,13 +88,12 @@
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Abhijith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-h-b1049b211/)](https://www.linkedin.com/in/abhijith-h-b1049b211/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-abhijithh496@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:abhijithh496@gmail.com)&nbsp;
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-h-b1049b211/)](https://www.linkedin.com/in/abhijith-h-b1049b211/)&nbsp;
+  	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijithh496@gmail.com)&nbsp;
 
 </div>
 
 
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
