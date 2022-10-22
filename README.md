@@ -89,7 +89,7 @@
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-h-b1049b211/)](https://www.linkedin.com/in/abhijith-h-b1049b211/)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-Abhijith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-h-b1049b211/)](https://www.linkedin.com/in/abhijith-h-b1049b211/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-abhijithh496@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:abhijithh496@gmail.com)&nbsp;
 
 </div>
